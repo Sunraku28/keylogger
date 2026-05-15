@@ -17,7 +17,7 @@ Unlike standard user-space keyloggers that hook into display servers (like X11 o
 * GCC (GNU Compiler Collection)
 * Root (`sudo`) privileges (required to read `/dev/input/` streams)
 
-## 📦 Compilation
+## Compilation
 
 To compile the source code into an executable binary, run the following command in your terminal:
 
