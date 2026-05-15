@@ -1,3 +1,6 @@
+    // for anyone who have different key mapping can get that from /usr/include/linux/inputs-event-codes.h
+    // and this file was created just to copy paste key mapping in the key_names array 
+    
     [KEY_RESERVED] = "KEY_RESERVED", 
     [KEY_ESC] = "KEY_ESC", 
     [KEY_1] = "KEY_1", 
